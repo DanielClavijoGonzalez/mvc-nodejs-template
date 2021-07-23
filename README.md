@@ -23,6 +23,7 @@ File system:
 - Routes: ```./app/routes/(...).js```
 - Models: ```./app/controllers/(...).js```
 - Helpers: ```./app/helpers/(...).js```
+- Middlewares: ```./app/middlewares/(...).js```
 - Configuration: ```./config/...```
 - Environment Variables: ```.env```
 - Environment Variables typing: ```.env.example```
