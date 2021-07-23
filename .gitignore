@@ -1,0 +1,16 @@
+# FileSystem
+.bashrc
+.bash_history
+.bash_logout
+.bash_profile
+.ssh
+
+# Private file environtment
+.env
+
+# packages
+node_modules/
+.npm/
+.nvm/
+.pm2/
+
